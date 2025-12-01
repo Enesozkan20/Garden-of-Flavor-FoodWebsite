@@ -27,7 +27,8 @@ Garden of Flavor is a website about food and recipes. It helps people find new r
 - **Easy to Use**: Simple navigation
 - **Works Everywhere**: Looks good on phones, tablets, and computers
 - **Fast Loading**: No heavy libraries
-
-## Live 👉 https://garden-of-flavor-food-website.vercel.app/
 - **Clean Design**: Nice colors and layout
+## Live 👉 https://garden-of-flavor-food-website.vercel.app/
+
+
 
